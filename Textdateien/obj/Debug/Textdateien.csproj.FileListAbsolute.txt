@@ -1,0 +1,7 @@
+C:\Schule\Informatik\C#\Textdateien\bin\Debug\Textdateien.exe.config
+C:\Schule\Informatik\C#\Textdateien\bin\Debug\Textdateien.exe
+C:\Schule\Informatik\C#\Textdateien\bin\Debug\Textdateien.pdb
+C:\Schule\Informatik\C#\Textdateien\obj\Debug\Textdateien.csproj.AssemblyReference.cache
+C:\Schule\Informatik\C#\Textdateien\obj\Debug\Textdateien.csproj.CoreCompileInputs.cache
+C:\Schule\Informatik\C#\Textdateien\obj\Debug\Textdateien.exe
+C:\Schule\Informatik\C#\Textdateien\obj\Debug\Textdateien.pdb
