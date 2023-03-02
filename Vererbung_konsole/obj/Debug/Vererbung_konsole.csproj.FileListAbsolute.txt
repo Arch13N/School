@@ -1,0 +1,7 @@
+C:\Schule\Informatik\C#\Vererbung_konsole\obj\Debug\Vererbung_konsole.csproj.AssemblyReference.cache
+C:\Schule\Informatik\C#\Vererbung_konsole\obj\Debug\Vererbung_konsole.csproj.CoreCompileInputs.cache
+C:\Schule\Informatik\C#\Vererbung_konsole\bin\Debug\Vererbung_konsole.exe.config
+C:\Schule\Informatik\C#\Vererbung_konsole\bin\Debug\Vererbung_konsole.exe
+C:\Schule\Informatik\C#\Vererbung_konsole\bin\Debug\Vererbung_konsole.pdb
+C:\Schule\Informatik\C#\Vererbung_konsole\obj\Debug\Vererbung_konsole.exe
+C:\Schule\Informatik\C#\Vererbung_konsole\obj\Debug\Vererbung_konsole.pdb
